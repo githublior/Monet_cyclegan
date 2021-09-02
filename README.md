@@ -3,5 +3,5 @@ using a cycle GAN for converting a picture  to a Monet style painting
 
 see Report for explanations.
 
-
-![Image of Yaktoca](https://octodex.github.com/images/yaktocat.png)
+orinal picture
+![pic21](https://drive.google.com/file/d/1266oXOFLnfFDfAGJAoGD8NpzdJTt1x9r/view?usp=sharing)
