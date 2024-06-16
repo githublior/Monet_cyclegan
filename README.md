@@ -14,8 +14,10 @@ https://drive.google.com/file/d/11mAilAYsSLj09fqSPLbvgOxLdWqZ6Td3/view?usp=shari
 
 
 
-
+# complementary ressources
 
 colab inference notebook: 
 https://colab.research.google.com/drive/1C4Ie9Zo9JG0LV4QcR-TFeqdfWqhoPcT_
+colab training notebook:
+https://colab.research.google.com/drive/1tFAbcqbRuPvanEUO8zTv8Hc5zlhFgD4m
 
